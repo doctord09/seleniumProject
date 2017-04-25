@@ -20,7 +20,7 @@ import pageObjects.AmazonHomePage;
  *
  */
 public class AmazonLoginPage {
-	
+	// change 2 - done in master
 	private MyDriver driver;
 	private AmazonHomePage amazonLoginPageObj;
 	
