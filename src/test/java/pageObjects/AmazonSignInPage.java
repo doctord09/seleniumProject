@@ -38,5 +38,10 @@ public class AmazonSignInPage extends VirtualSuperPage{
 	public void newMethod(){
 		
 	}
+	
+
+	public int newMethodInMaster(){
+		return 0;
+	}
 
 }
