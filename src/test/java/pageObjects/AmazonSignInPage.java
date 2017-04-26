@@ -35,7 +35,7 @@ public class AmazonSignInPage extends VirtualSuperPage{
 		return PageFactory.initElements(driver, AmazonHomePage.class);
 	}
 	public void newMethod(){
-		
+		//bla bla
 	}
 	public int newMethodInMaster(){
 		return 0;
