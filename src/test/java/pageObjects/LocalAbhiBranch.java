@@ -10,6 +10,8 @@ public class LocalAbhiBranch {
 		System.out.println("want to squash - change for EGIT practice");
 		out.println("commit-1");
 		out.println("commit-2");
+		out.println("commit-3");
+		
 	}
 
 }
