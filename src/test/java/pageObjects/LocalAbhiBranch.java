@@ -16,6 +16,8 @@ public class LocalAbhiBranch {
 		
 		System.out.println("cherry-pick #1");
 		System.out.println("cherry-pick #2");
+		
+		System.out.println("local: Rebase changes #1");
 	}
 
 }
