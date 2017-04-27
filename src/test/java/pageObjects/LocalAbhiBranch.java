@@ -7,7 +7,7 @@ public class LocalAbhiBranch {
 	 */
 	public void myFunc (){
 		out.println("I am in Master");
-
+		System.out.println("want to squash - change for EGIT practice");
 	}
 
 }
