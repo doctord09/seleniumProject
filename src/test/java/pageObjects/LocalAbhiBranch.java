@@ -15,6 +15,7 @@ public class LocalAbhiBranch {
 		out.println("commit-5");
 		
 		System.out.println("cherry-pick #1");
+		System.out.println("cherry-pick #2");
 	}
 
 }
