@@ -16,7 +16,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  *
  */
 public class MyDriver implements WebDriver {
-	WebDriver driver;
+	private static WebDriver driver;
 	public MyDriver(){
 		
 	}
