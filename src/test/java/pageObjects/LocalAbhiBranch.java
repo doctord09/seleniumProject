@@ -22,6 +22,7 @@ public class LocalAbhiBranch {
 		System.out.println("local: Rebase changes #3");
 		System.out.println("create a conflict");
 		System.out.println("create a change in master");
+		System.out.println("Create 2 change in master");
 		}
 
 }
